@@ -1,0 +1,12 @@
+{
+  "version": "1.0.0",
+  "build": 1,
+  "published_at": "2026-10-06T18:09:18Z",
+  "apk": {
+    "name": "SOMS-1.0.0.apk",
+    "url": "https://github.com/dolil/soms-mobile-releases/releases/download/v1.0.0/SOMS-1.0.0.apk",
+    "size": 62758065,
+    "sha256": "4ad59b9436a2daa7efa210818904b88400414ee9412c874664cdd253ba51401e"
+  },
+  "min_android": "7.0"
+}
